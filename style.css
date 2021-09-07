@@ -32,7 +32,7 @@ body {
 }
  
 header{
-	background-color: #1A414D;
+	background-color: #ffe200;
 	padding: 10px 10px;
 	border-radius: 5px;
 	border: 1px solid #f0f0f0;
@@ -46,7 +46,7 @@ header h3.deskripsi{
  
 
 .menu{
-	background-color: #cc2431;
+	background-color: #d6d6d6;
 	border: 1px solid #f0f0f0;
 	border-radius: 8px;	
 	margin-bottom: 10px;
